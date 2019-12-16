@@ -7,8 +7,8 @@
 ```bash
    npm install
 
-   nodemon     # to run the backend which runs on port 3000
-   ng serve    # to run the frontend ehich runs on port 4200
+   nodemon     # to run the backend in root folder which runs on port 3000
+   ng serve    # to run the frontend in angular-src which runs on port 4200
 ```
 
 ## Note
