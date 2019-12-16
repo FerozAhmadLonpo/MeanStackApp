@@ -11,5 +11,5 @@
    ng serve    # to run the frontend ehich runs on port 4200
 ```
 
-##Note##
+## Note
 **Visit** localhost:4200
